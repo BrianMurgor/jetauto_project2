@@ -54,7 +54,7 @@ See `project2_answers.txt` for all five required question responses.
 
 ##  Demo Video
 
-Include your recorded video of the robot performing the square motion here if required by your instructor.
+video included
 
 ---
 
