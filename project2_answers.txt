@@ -1,0 +1,11 @@
+
+1. roslaunch jetauto_gazebo worlds.launch
+
+
+2.Includes spawn, state publisher, controller, teleop (e.g. jetauto_spawn.launch, gazebo_ros_control.launch, etc.)
+
+3. Created workspace with catkin_make, created package lab4_jetauto_control, wrote square_motion.py, sourced setup.bash
+
+4. Estimated 1 m using velocity*time, e.g., 0.2 m/s × 5 s = 1 m
+
+5. Challenges: SSH setup, missing ROS dependencies, tuning motion timing. Solved via scp, apt install, modifying durations.

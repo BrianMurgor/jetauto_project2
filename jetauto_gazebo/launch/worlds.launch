@@ -1,0 +1,6 @@
+<launch>
+  <!-- Load robot state -->
+  <include file="$(find jetauto_description)/launch/display.launch"/>
+  <!-- Gazebo simulation -->
+  <include file="$(find gazebo_ros)/launch/empty_world.launch"/>
+</launch>
